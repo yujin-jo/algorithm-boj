@@ -27,5 +27,6 @@ public class Boj_10250_plan1{
 			}
 			System.out.println(resHeight * 100 + resWidth);
 		}
+		sc.close();
 	}
 }
