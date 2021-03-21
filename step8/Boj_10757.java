@@ -8,7 +8,8 @@ public class Boj_10757 {
         Scanner sc = new Scanner(System.in);
         BigInteger A = sc.nextBigInteger();
         BigInteger B = sc.nextBigInteger();
-
+        sc.close();
+        
         System.out.println(A.add(B));
     }
 }
